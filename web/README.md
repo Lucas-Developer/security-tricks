@@ -14,6 +14,15 @@ Esse arquivo contêm algumas tricks para realizar xss e dar bypass em alguns bro
 
 ## lfi.txt
 ```
-Contem técnicas para realizar a exploração do lfi e achar diretórios sensiveís.
+Contêm técnicas para realizar a exploração do lfi e achar diretórios sensiveís.
 ```
 
+## openRedirect.txt
+```
+Contêm algumas técnicas básicas para executar Open Redirect.
+```
+
+## links.c
+```
+Programa ainda em desenvolvimento, serve apenas para pegar os links presentes na página.
+```
