@@ -9,6 +9,7 @@ def generator(tam, quant):
 	i = 0
 	k = 0
 	newCrsf = ""
+	
 	while ((i != tam) and (k != int(quant))):
 		if i != tam:
 			newCrsf+= random.choice(alfabC)
@@ -24,6 +25,7 @@ def generator(tam, quant):
 	i = 0
 	newCrsf = ""
 	print "second"
+	
 	while ((i != tam) and (k != int(quant))):
 		if i < 4:
 			newCrsf += random.choice(alfabU)
