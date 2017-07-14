@@ -1,0 +1,8 @@
+file.php.jpg
+file.php%00
+file.php.gif
+file.php.png
+file.php;png
+file.php;jpg
+file.php;.jpg
+file.php;%00.jpg
