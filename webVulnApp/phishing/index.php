@@ -13,7 +13,7 @@ setcookie("userid","N0T4DM1N");
 		</form>
 		<?php
 			if(!empty($_POST['message'])){
-				shell_exec("php /lvg934/admin.php {$message}");
+				shell_exec("php ./lvg934/formadata.php {$message}");
 			}
 		?>
 	</body>
