@@ -1,10 +1,10 @@
 ## csrfToken.py
 ```
-csrfToken.py pode ser alterado, a ferramenta gera uma sequencia apenas 
+csrfToken.py pode ser alterado, a ferramenta gera uma sequência apenas 
 para você fazer testes em cima do anti-CSRF token.
 
 
-Os strings geradas por essa ferramenta não seguem um padrão especifico.
+As strings geradas por essa ferramenta não seguem um padrão específico.
 ```
 
 ## xss.txt
