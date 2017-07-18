@@ -6,6 +6,7 @@
 
 /*
 Compile: gcc -lcurl foo.c -o foo
+./foo | grep "http" | awk -F '"' '{print $2}'
 */
 
 static size_t writeData(void *ptr, size_t size, size_t nmemb, void *stream){
